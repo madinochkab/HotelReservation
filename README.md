@@ -1,6 +1,6 @@
-# Advanced project --> main branch
+# Hotel Reservation project --> main branch
 
-An advanced application that we will be using for Selenium automation testing
+Hotel Reservation application that we will be using for Selenium automation testing
 Git
 Java
 Maven
