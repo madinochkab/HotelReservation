@@ -1,7 +1,7 @@
-# Advanced project --> basic-auto-project
+# HotelReservation project --> basic-auto-project
 
 
-this is readme for a Advanced project's basic-auto-project.
+this is readme for a HotelReservation project's basic-auto-project.
 for automation projects
 
 
